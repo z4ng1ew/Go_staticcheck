@@ -1,0 +1,1 @@
+{"code":"compile","severity":"error","location":{"file":"","line":0,"column":0},"end":{"file":"","line":0,"column":0},"message":"# example.com/mymodule\n./main.go:28:9: -1 (untyped int constant) overflows uint\n./main.go:33:2: declared and not used: y\n./main.go:92:3: duplicate field name Port in struct literal"}
